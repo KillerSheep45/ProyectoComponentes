@@ -9,5 +9,5 @@ phases:
       - echo Build complete.
 artifacts:
   files:
-    - target/ProyectoComponentes.jar
+    - target/ProyectoFinalComponentes.jar
   discard-paths: yes
