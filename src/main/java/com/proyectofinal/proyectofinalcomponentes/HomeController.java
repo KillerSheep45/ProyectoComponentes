@@ -10,4 +10,9 @@ public class HomeController {
     public String home(){
         return "Proyecto Componentes Matias Brayle Daniel. Hola profe!";
     }
+
+    @RequestMapping("/test")
+    public String test(){
+        return "Test";
+    }
 }
